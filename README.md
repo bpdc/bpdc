@@ -1,8 +1,6 @@
-<img width=100% bottom=50px src"https://github.com/bpdc/bpdc/assets/143849811/9eb94c79-2d8f-47c8-bc27-c86086eee49a"/>
+<img width=100% bottom=50px src="https://github.com/bpdc/bpdc/assets/143849811/9eb94c79-2d8f-47c8-bc27-c86086eee49a"/>
 
-
-### Hi there 👋
-
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4E5&background=FFF7F900&random=false&width=435&lines=Seja+Bem-Vindo(a)+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /> </a> </p>
 <!--
 **bpdc/bpdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
