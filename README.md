@@ -57,20 +57,30 @@
 <strong><p><h2><li> Dados Analísticos 🇧🇷/ Analytical Data 🇺🇸/ Datos Analíticos 🇪🇸 </li></h2></p></strong>
 <div>
   <a href="https://github.com/bpdc" style="display: block;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bpdc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bpdc&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/rafaballerini2" style="display: block;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpdc&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpdc&layout=compact&langs_count=16&theme=cobalt"/>
   </a>
-</div>
+</div>       
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=bpdc&bg_color=030303&color=fed7fb&line=17a1ab&point=d79cf2&area=true&hide_border=true" alt="Ashutosh's GitHub Activity Graph">
+    </a>
+</body>
+</html>
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=bpdc&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=bpdc&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  </a>
+</p>
 
-
-
-
-          
-  
- 
-          
 
 <!--
 **bpdc/bpdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
