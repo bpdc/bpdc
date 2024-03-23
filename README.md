@@ -19,7 +19,6 @@
 <p><h4> In this GitHub repository, you will find some projects I have developed for both academic assignments and personal projects, as well as work done at MackLabs, an extracurricular activity at my educational institution. All the projects posted here aim to showcase my skills in various programming languages that I am familiar with, especially in front-end and back-end projects. 🇺🇸 </h4></p>
 <p><h4> En este repositorio de GitHub, encontrarás algunos proyectos que he desarrollado tanto para trabajos académicos como para proyectos personales, además de trabajos realizados en MackLabs, una actividad extracurricular en mi institución educativa. Todos los proyectos publicados aquí tienen como objetivo demostrar mis habilidades en varios lenguajes de programación con los que estoy familiarizado, especialmente en proyectos de front-end y back-end. 🇪🇸 </h4></p>
 <p><h4> 
- <br>
 <p><h4> 🏛️Instituição de Ensino 🇧🇷/ Educational Institution 🇺🇸/ Institución Educativa 🇪🇸 - Universidade Presbiteriana Mackenzie </h4></p>
 <p><h4> 💻Curso 🇧🇷/ Course 🇺🇸/ Curso 🇪🇸 - Sistemas de Informação 🇧🇷/ Information Systems  🇺🇸/ Sistemas de Información 🇪🇸 </h4></p>  
 <p><h4> 🎓 2º - Semestre 🇧🇷/ Semester 🇺🇸/ Semestre 🇪🇸 </h4></p>
