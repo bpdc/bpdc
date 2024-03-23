@@ -80,6 +80,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=bpdc&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   </a>
 </p>
+<br>
+<img width=100% bottom=50px src="https://github.com/bpdc/bpdc/assets/143849811/23207244-1865-4b4e-a74f-905648de81ec"/>
 
 
 <!--
