@@ -38,6 +38,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="width: 60px; height: 60px">
 </div>
 <br>
+<strong><p><h2><li> Ferramentas 🇧🇷/ Tools 🇺🇸/ Herramientas 🇪🇸 </li></h2></p></strong>
+<br>
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" style="width: 60px; height: 60px;">
+</div>
+  
 <strong><p><h2><li> Contato 🇧🇷/ Contact 🇺🇸/ Contacto 🇪🇸 </li></h2></p></strong>
 <br>
 <div style="display: flex;">
@@ -48,9 +56,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
-
- 
-
+<br>
+<strong><p><h2><li> Dados Analísticos 🇧🇷/ Analytical Data 🇺🇸/ Datos Analíticos 🇪🇸 </li></h2></p></strong>
 
 
 
