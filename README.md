@@ -19,12 +19,34 @@
 <p><h4> In this GitHub repository, you will find some projects I have developed for both academic assignments and personal projects, as well as work done at MackLabs, an extracurricular activity at my educational institution. All the projects posted here aim to showcase my skills in various programming languages that I am familiar with, especially in front-end and back-end projects. 🇺🇸 </h4></p>
 <p><h4> En este repositorio de GitHub, encontrarás algunos proyectos que he desarrollado tanto para trabajos académicos como para proyectos personales, además de trabajos realizados en MackLabs, una actividad extracurricular en mi institución educativa. Todos los proyectos publicados aquí tienen como objetivo demostrar mis habilidades en varios lenguajes de programación con los que estoy familiarizado, especialmente en proyectos de front-end y back-end. 🇪🇸 </h4></p>
 <p><h4> 
+<br>
 <p><h4> 🏛️Instituição de Ensino 🇧🇷/ Educational Institution 🇺🇸/ Institución Educativa 🇪🇸 - Universidade Presbiteriana Mackenzie </h4></p>
 <p><h4> 💻Curso 🇧🇷/ Course 🇺🇸/ Curso 🇪🇸 - Sistemas de Informação 🇧🇷/ Information Systems  🇺🇸/ Sistemas de Información 🇪🇸 </h4></p>  
 <p><h4> 🎓 2º - Semestre 🇧🇷/ Semester 🇺🇸/ Semestre 🇪🇸 </h4></p>
+<br>
+<strong><p><h2><li> Linguagens 🇧🇷/ Language 🇺🇸/ Lenguaje 🇪🇸 </li></h2></p></strong>
+<br>
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" style="width: 60px; height: 60px;">
+</div>
 
 
 
+  
+
+
+
+
+          
+  
+ 
+          
 
 <!--
 **bpdc/bpdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
