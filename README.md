@@ -36,13 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" style="width: 60px; height: 60px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 60px; height: 60px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="width: 60px; height: 60px">
-
 </div>
 <br>
 <strong><p><h2><li> Contato 🇧🇷/ Contact 🇺🇸/ Contacto 🇪🇸 </li></h2></p></strong>
 <br>
-
-
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<a href="beatriz_de_camargo@hotmail.com"><img src="https://img.shields.io/badge/Gmail-014836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   
 
