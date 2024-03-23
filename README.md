@@ -1,6 +1,24 @@
-<img width=100% bottom=50px src="https://github.com/bpdc/bpdc/assets/143849811/9eb94c79-2d8f-47c8-bc27-c86086eee49a"/>
+<img width=100% bottom=50px src="https://github.com/bpdc/bpdc/assets/143849811/574eec0e-9e8d-407e-903e-a45d5bd297b1"/>
+<br>
+<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=CA73AE&multiline=true&random=false&width=435&lines=Seja+Bem+-+Vindo(a)!+%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG">
+  </a>
+</p><p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=CA73AE&multiline=true&random=false&width=435&lines=Welcome+Hello!++%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%87%BA%F0%9F%87%B8" alt="Typing SVG">
+  </a>
+</p><p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=CA73AE&multiline=true&random=false&width=435&lines=Bienvenido(a)+Hola!++%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG">
+  </a>
+</p>
+<hr>
 
-<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F4E5&background=FFF7F900&random=false&width=435&lines=Seja+Bem-Vindo(a)+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /> </a> </p>
+
+
+
 <!--
 **bpdc/bpdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
