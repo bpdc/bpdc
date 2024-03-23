@@ -34,33 +34,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" style="width: 60px; height: 60px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" style="width: 60px; height: 60px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" style="width: 60px; height: 60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 60px; height: 60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="width: 60px; height: 60px">
 </div>
 <br>
 <strong><p><h2><li> Ferramentas 🇧🇷/ Tools 🇺🇸/ Herramientas 🇪🇸 </li></h2></p></strong>
 <br>
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" style="width: 60px; height: 60px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" style="width: 60px; height: 60px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 60px; height: 60px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="width: 60px; height: 60px">
 </div>
-
-
-
-  
+<br>
 <strong><p><h2><li> Contato 🇧🇷/ Contact 🇺🇸/ Contacto 🇪🇸 </li></h2></p></strong>
 <br>
-<div style="display: flex;">
-  <div style="margin-right: 10px;">
-    <a href="mailto:beatriz_de_camargo@hotmail.com">
-      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
-    </a><a href="https://www.linkedin.com/in/beatriz-pimenta-de-camargo" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </div>
+<a href="https://www.linkedin.com/in/beatriz-pimenta-de-camargo/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="mailto:beatriz_de_camargo@hotmail.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
+</a>
 <br>
 <strong><p><h2><li> Dados Analísticos 🇧🇷/ Analytical Data 🇺🇸/ Datos Analíticos 🇪🇸 </li></h2></p></strong>
+<div>
+  <a href="https://github.com/bpdc" style="display: block;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bpdc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/rafaballerini2" style="display: block;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpdc&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
+
 
 
 
