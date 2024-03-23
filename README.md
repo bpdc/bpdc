@@ -41,7 +41,7 @@
 <strong><p><h2><li> Contato 🇧🇷/ Contact 🇺🇸/ Contacto 🇪🇸 </li></h2></p></strong>
 <br>
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-<a href="beatriz_de_camargo@hotmail.com"><img src="https://img.shields.io/badge/Gmail-014836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="beatriz_de_camargo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
   
 
