@@ -41,14 +41,23 @@
 <strong><p><h2><li> Contato 🇧🇷/ Contact 🇺🇸/ Contacto 🇪🇸 </li></h2></p></strong>
 <br>
 <div style="display: inline-block;">
-  <a href="https://discord.gg/bpdc#0984" target="_blank">
+  <a href="https://discord.gg/SEUCÓDIGO" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
+
 <div style="display: inline-block;">
   <a href="mailto:beatriz_de_camargo@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
   </a>
+</div>
+
+<div style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/beatriz-pimenta-de-camargo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
 </div>
 
 
