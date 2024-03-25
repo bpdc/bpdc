@@ -15,9 +15,9 @@
   </a>
 </p>
 <strong><p><h2><li> Perfil 🇧🇷/ Profile 🇺🇸/ Perfil 🇪🇸 </li></h2></p></strong>
-<p><h4> Neste GitHub, você encontrará alguns projetos que desenvolvi tanto para trabalhos acadêmicos quanto projetos pessoais, além de trabalhos realizados no laboratório MackLeaps, uma atividade extracurricular na minha instituição de ensino. Todos os projetos postados aqui têm o objetivo de demonstrar minhas habilidades em diversas linguagens de programação com as quais tenho familiaridade, principalmente em projetos de front-end e back-end. 🇧🇷 </h4></p>
-<p><h4> In this GitHub repository, you will find some projects I have developed for both academic assignments and personal projects, as well as work done at MackLeaps, an extracurricular activity at my educational institution. All the projects posted here aim to showcase my skills in various programming languages that I am familiar with, especially in front-end and back-end projects. 🇺🇸 </h4></p>
-<p><h4> En este repositorio de GitHub, encontrarás algunos proyectos que he desarrollado tanto para trabajos académicos como para proyectos personales, además de trabajos realizados en MackLeaps, una actividad extracurricular en mi institución educativa. Todos los proyectos publicados aquí tienen como objetivo demostrar mis habilidades en varios lenguajes de programación con los que estoy familiarizado, especialmente en proyectos de front-end y back-end. 🇪🇸 </h4></p>
+<p><h4> Neste GitHub, você encontrará alguns projetos que desenvolvi tanto para trabalhos acadêmicos quanto projetos pessoais, além de trabalhos realizados no laboratório MackLeaps, uma atividade extracurricular na minha instituição de ensino. Todos os projetos postados aqui têm o objetivo de demonstrar minhas habilidades em diversas linguagens de programação com as quais tenho familiaridade, principalmente em projetos de front-end e back-end. Abaixo, você encontrará minhas habilidades técnicas e experiência em programação e desenvolvimento de software. Estou sempre buscando aprender e melhorar minhas habilidades, e fico à disposição para colaborações ou dúvidas. 🇧🇷 </h4></p>
+<p><h4> In this GitHub repository, you will find some projects I have developed for both academic assignments and personal projects, as well as work done at MackLeaps, an extracurricular activity at my educational institution. All the projects posted here aim to showcase my skills in various programming languages that I am familiar with, especially in front-end and back-end projects. Below, you will find my technical skills and experience in programming and software development. I am always looking to learn and improve my skills, and I am available for collaborations or inquiries. 🇺🇸 </h4></p>
+<p><h4>En este repositorio de GitHub, encontrarás algunos proyectos que he desarrollado tanto para trabajos académicos como para proyectos personales, además de trabajos realizados en MackLeaps, una actividad extracurricular en mi institución educativa. Todos los proyectos publicados aquí tienen como objetivo demostrar mis habilidades en varios lenguajes de programación con los que estoy familiarizado, especialmente en proyectos de front-end y back-end. A continuación, encontrarás mis habilidades técnicas y experiencia en programación y desarrollo de software. Siempre estoy buscando aprender y mejorar mis habilidades, y estoy disponible para colaboraciones o consultas. 🇪🇸 </h4></p>
 <p><h4> 
 <br>
 <p><h4> 🏛️Instituição de Ensino 🇧🇷/ Educational Institution 🇺🇸/ Institución Educativa 🇪🇸 - Universidade Presbiteriana Mackenzie </h4></p>
@@ -34,13 +34,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" style="width: 60px; height: 60px;">
 </div>
 <br>
-<strong><p><h2><li> Sistemas Operacionais 🇧🇷/ Operating Systems 🇺🇸/ Herramientas 🇪🇸 </li></h2></p></strong>
+<strong><p><h2><li> Sistemas Operacionais 🇧🇷/ Operating Systems 🇺🇸/ Sistemas Operativos 🇪🇸 </li></h2></p></strong>
   <div style="display: flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" style="width: 60px; height: 60px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="60" />
   </div>
 <br>
-<strong><p><h2><li> Ferramentas 🇧🇷/ Tools 🇺🇸/ Sistemas Operativos 🇪🇸 </li></h2></p></strong>
+<strong><p><h2><li> Ferramentas 🇧🇷/ Tools 🇺🇸/ Herramientas 🇪🇸 </li></h2></p></strong>
 <br>
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" style="width: 60px; height: 60px;">
