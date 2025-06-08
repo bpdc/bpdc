@@ -56,10 +56,17 @@
 <strong><p><h2><li> Contato 🇧🇷/ Contact 🇺🇸/ Contacto 🇪🇸 </li></h2></p></strong>
 <br>
 <a href="https://www.linkedin.com/in/beatriz-pimenta-de-camargo/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-<a href="mailto:beatriz_de_camargo@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px;">
 </a>
+<a href="mailto:beatriz_de_camargo@hotmail.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook" style="height: 40px;">
+</a>
+<a href="https://www.youtube.com/@BeatrizPimentadeCamargo-i3i" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather" alt="YouTube" style="height: 40px;">
+</a>
+
+
+
 <br>
 <strong><p><h2><li> Dados Analísticos 🇧🇷/ Analytical Data 🇺🇸/ Datos Analíticos 🇪🇸 </li></h2></p></strong>
 <div>
